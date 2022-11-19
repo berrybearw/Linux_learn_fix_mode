@@ -17,9 +17,9 @@ FAQ
 
 ![image](https://user-images.githubusercontent.com/96226780/202836277-6fb4d0a3-597e-44f0-9bb4-fd60eeede8fb.png)
 
-執行 : mount -t xfs /dev/sda1 /boot
+`執行 : mount -t xfs /dev/sda1 /boot`
 
-grep -r 'pguota'
+`grep -r 'pguota'`
 
 發現是 /boot/grub2 檔案 grub.conf , grubenv 
 
